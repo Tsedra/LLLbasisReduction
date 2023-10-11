@@ -30,7 +30,7 @@
 *.exe
 *.out
 *.app
-
+out/
 examples/tcp-client
 examples/tcp-server
 examples/udp-client
